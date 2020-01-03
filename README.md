@@ -2,7 +2,7 @@
 A physically accurate, graphics based simulation of the natural phenomenon known as a pendulum wave.
 A pendulum wave consists of a series of carefully chosen pendulums of specific lengths that experience a certain number of oscillations per second to create a periodic wavelike pattern. More information on the topic can be found at https://sciencedemonstrations.fas.harvard.edu/presentations/pendulum-waves.
 This program was created for a final project in a calculus-based physics class.\
-![Screenshot_70](https://raw.githubusercontent.com/ryanbeckwith/pendulum_wave/blob/master/Screenshot_70.png)
+![Screenshot_70](https://raw.githubusercontent.com/ryanbeckwith/pendulum_wave/master/Screenshot_70.png)
 ### Controls
 space - Starts (or restarts) the simulation.\
 v - Displays velocity vectors for each pendulum, if they are not already displayed.\
